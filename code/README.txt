@@ -15,4 +15,3 @@ The parameter is to choose the value of probability(a newly activated node u act
     3 - High
 In the end, the program will save figure named 'simulate_mode.png'
 
-![](https://github.com/lanseyege/Simulation_under_Independent_Cascades/blob/master/code/simulate.png)
